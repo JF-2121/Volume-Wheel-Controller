@@ -134,3 +134,13 @@ for event in dev.read_loop():
 ---
 
 Test
+* **Falsches Mausrad wird erkannt:**
+  Prüfe mit `evtest` oder `evemu-record` dein Thumbwheel und passe den Device-Pfad im Script an.
+  * **Falsches Mausrad wird erkannt:**
+  Prüfe mit `evtest` oder `evemu-record` dein Thumbwheel und passe den Device-Pfad im Script an.* **Falsches Mausrad wird erkannt:**
+  Prüfe mit `evtest` oder `evemu-record` dein Thumbwheel und passe den Device-Pfad im Script an.
+* **Falsches Mausrad wird erkannt:**
+  Prüfe mit `evtest` oder `evemu-record` dein Thumbwheel und passe den Device-Pfad im Script an.
+  * **Falsches Mausrad wird erkannt:**
+  Prüfe mit `evtest` oder `evemu-record` dein Thumbwheel und passe den Device-Pfad im Script an.
+
